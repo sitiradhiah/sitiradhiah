@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sitiradhiah
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning php framework codeigniter
+- 🌱 I’m currently working as web developer mostly involve in laravel and codeigniter framework full stack development
 - 💞️ 
 - 📫 How to reach me ->>> email : sitiradhiahmegat@gmail.com
 
